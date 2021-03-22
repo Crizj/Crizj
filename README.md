@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Crizj from NanJing University
-- 👀 自我介绍：一只菜鸡
+- 👋 Hi, I’m @Crizj from NanJing University, BSc undergraduate
+- 👀 自我介绍：一只菜鸡,南大本科在读
 - 🌱 Majoring in CS
 - 📫 JieZhengNJU@outlook.com
 
